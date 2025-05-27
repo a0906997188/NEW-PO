@@ -29,3 +29,4 @@ public class Card
         Debug.Log(id + " 目前是 isFaceUp : " + isFaceUp + "，配對：" + isMatched);
     }
 }
+
