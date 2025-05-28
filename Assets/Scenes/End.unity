@@ -357,10 +357,10 @@ MonoBehaviour:
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
-    m_HorizontalOverflow: 0
+    m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u5168\u5287\u7D42"
+  m_Text: "\u606D\u559C\u4F60\u8CFA\u5230100\u584A\u4E86"
 --- !u!222 &1345515545
 CanvasRenderer:
   m_ObjectHideFlags: 0
