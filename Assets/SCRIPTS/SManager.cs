@@ -17,6 +17,11 @@ public class SManager : MonoBehaviour
             levelScore = 0;
             SceneManager.LoadScene(3);
         }
+        else if(levelNO == 8 && levelScore >= levelNO)
+        {
+            levelScore = 0;
+            SceneManager.LoadScene(4);
+        }
         
 
     }
